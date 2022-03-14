@@ -1,3 +1,3 @@
-nome = input(str("Digite seu nome:"))
-email = input(str("Digite seu email:"))
-telefone = input(str("Digite seu telefone:"))
+nome = str(input("Digite seu nome:"))
+email = str(input("Digite seu email:"))
+telefone = str(input("Digite seu telefone:"))
